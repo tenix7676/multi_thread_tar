@@ -1,6 +1,6 @@
 A small script to make sure tar uses multithreading. 
 ## Installation
-Copy the code below to your '~/.bashrc' config and use tar as you normally would, now multithreaded!
+Copy the code below to your `~/.bashrc` config and use tar as you normally would, now multithreaded!
 ```sh
 _is_a_flag()
 {
